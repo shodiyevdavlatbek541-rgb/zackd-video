@@ -1,0 +1,19 @@
+# renders, scenes and media stay on this computer (large, and the voice is private)
+*.blend
+*.blend1
+*.mp4
+*.wav
+*.m4a
+*.png
+*.jpg
+*.log
+logs_*.txt
+frames/
+frames_v2/
+plate/
+plate_v2/
+chk/
+scan/
+assets_dl/
+ref/
+__pycache__/

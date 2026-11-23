@@ -1,0 +1,496 @@
+{
+ "file": "C:\\Users\\User\\Downloads\\Telegram Desktop\\video_2026-11-22_23-50-15.mp4",
+ "duration": 18.204,
+ "loudness": {
+  "lufs": -12.1,
+  "lra": 2.3,
+  "true_peak": -2.5
+ },
+ "sample_peak_dbfs": 0.16,
+ "clipped_samples": 64,
+ "noise_floor_db": -20.2,
+ "speech_threshold_db": -9.7,
+ "speech_seconds": 15.92,
+ "speech_ratio": 0.87,
+ "first_speech": 0.18,
+ "last_speech": 17.38,
+ "syllables_detected": 74,
+ "syllables_per_second": 4.65,
+ "pitch_median_hz": 122.1,
+ "pitch_range_hz": [
+  96.4,
+  163.9
+ ],
+ "phrases": [
+  [
+   0.18,
+   11.58
+  ],
+  [
+   12.08,
+   14.72
+  ],
+  [
+   15.25,
+   17.38
+  ]
+ ],
+ "pauses": [
+  [
+   0.0,
+   0.18,
+   0.18
+  ],
+  [
+   3.17,
+   3.42,
+   0.25
+  ],
+  [
+   11.58,
+   12.08,
+   0.5
+  ],
+  [
+   14.72,
+   15.25,
+   0.53
+  ],
+  [
+   17.38,
+   18.18,
+   0.8
+  ]
+ ],
+ "emphasis_times": [
+  0.356,
+  0.496,
+  0.716,
+  1.026,
+  1.186,
+  1.396,
+  1.576,
+  1.726,
+  1.966,
+  2.056,
+  2.146,
+  2.406,
+  2.606,
+  2.706,
+  2.996,
+  3.496,
+  3.686,
+  3.876,
+  4.036,
+  4.316,
+  4.556,
+  4.696,
+  4.946,
+  5.086,
+  5.236,
+  5.826,
+  5.966,
+  6.296,
+  6.416,
+  6.516,
+  6.696,
+  6.836,
+  7.076,
+  7.256,
+  7.526,
+  8.146,
+  8.376,
+  8.546,
+  8.726,
+  8.906,
+  9.116,
+  9.286,
+  9.516,
+  9.776,
+  10.306,
+  10.506,
+  10.786,
+  10.916,
+  12.136,
+  12.266,
+  12.406,
+  12.566,
+  12.666,
+  12.776,
+  13.116,
+  13.296,
+  13.456,
+  13.626,
+  14.006,
+  14.226,
+  14.456,
+  14.706,
+  15.696,
+  15.826,
+  15.976,
+  16.216,
+  16.406,
+  16.526,
+  16.706,
+  16.826,
+  17.046,
+  17.296
+ ],
+ "clicks": [
+  5.406,
+  11.516,
+  15.046
+ ],
+ "breaths": [
+  [
+   11.58,
+   12.08
+  ]
+ ],
+ "music_or_bed_in_pauses": false,
+ "onsets": [
+  {
+   "t": 0.206,
+   "strength": 3.4,
+   "centroid": 910,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 0.606,
+   "strength": 6.4,
+   "centroid": 2802,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 1.146,
+   "strength": 4.9,
+   "centroid": 3192,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 1.496,
+   "strength": 4.9,
+   "centroid": 2558,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 1.886,
+   "strength": 6.3,
+   "centroid": 1008,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 2.946,
+   "strength": 4.3,
+   "centroid": 1994,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 3.126,
+   "strength": 3.5,
+   "centroid": 934,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 3.456,
+   "strength": 7.0,
+   "centroid": 1529,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 3.996,
+   "strength": 5.1,
+   "centroid": 1196,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 4.166,
+   "strength": 4.3,
+   "centroid": 2798,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 4.476,
+   "strength": 3.1,
+   "centroid": 3103,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 4.636,
+   "strength": 4.5,
+   "centroid": 837,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 4.786,
+   "strength": 6.0,
+   "centroid": 2336,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 4.856,
+   "strength": 4.7,
+   "centroid": 1518,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 5.066,
+   "strength": 2.3,
+   "centroid": 929,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 5.186,
+   "strength": 4.0,
+   "centroid": 3026,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 5.406,
+   "strength": 6.6,
+   "centroid": 4722,
+   "kind": "click/tick/pop"
+  },
+  {
+   "t": 5.796,
+   "strength": 4.1,
+   "centroid": 691,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 5.916,
+   "strength": 3.8,
+   "centroid": 1156,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 6.146,
+   "strength": 2.6,
+   "centroid": 1494,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 6.356,
+   "strength": 3.8,
+   "centroid": 1031,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 6.606,
+   "strength": 6.2,
+   "centroid": 1941,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 6.936,
+   "strength": 2.3,
+   "centroid": 2755,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 7.146,
+   "strength": 5.2,
+   "centroid": 2442,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 7.306,
+   "strength": 3.1,
+   "centroid": 1877,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 7.476,
+   "strength": 4.8,
+   "centroid": 2514,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 7.686,
+   "strength": 4.1,
+   "centroid": 5648,
+   "kind": "click/tick/pop"
+  },
+  {
+   "t": 8.066,
+   "strength": 3.9,
+   "centroid": 852,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 8.476,
+   "strength": 3.4,
+   "centroid": 1027,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 8.696,
+   "strength": 6.5,
+   "centroid": 2606,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 9.056,
+   "strength": 7.2,
+   "centroid": 2330,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 9.636,
+   "strength": 3.6,
+   "centroid": 1926,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 9.866,
+   "strength": 4.0,
+   "centroid": 1876,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 10.186,
+   "strength": 2.6,
+   "centroid": 787,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 10.736,
+   "strength": 2.3,
+   "centroid": 1869,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 10.876,
+   "strength": 5.4,
+   "centroid": 2112,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 11.516,
+   "strength": 6.6,
+   "centroid": 3567,
+   "kind": "click/tick/pop"
+  },
+  {
+   "t": 11.716,
+   "strength": 4.6,
+   "centroid": 5182,
+   "kind": "click/tick/pop"
+  },
+  {
+   "t": 12.086,
+   "strength": 7.5,
+   "centroid": 2733,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 12.226,
+   "strength": 4.1,
+   "centroid": 1909,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 12.476,
+   "strength": 2.4,
+   "centroid": 3603,
+   "kind": "click/tick/pop"
+  },
+  {
+   "t": 12.626,
+   "strength": 6.0,
+   "centroid": 989,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 12.936,
+   "strength": 4.8,
+   "centroid": 2361,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 13.246,
+   "strength": 5.5,
+   "centroid": 2704,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 13.806,
+   "strength": 5.3,
+   "centroid": 2402,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 13.966,
+   "strength": 3.7,
+   "centroid": 1112,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 14.416,
+   "strength": 4.5,
+   "centroid": 3048,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 14.646,
+   "strength": 4.7,
+   "centroid": 2819,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 15.046,
+   "strength": 6.6,
+   "centroid": 5441,
+   "kind": "click/tick/pop"
+  },
+  {
+   "t": 15.126,
+   "strength": 2.9,
+   "centroid": 2265,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 15.646,
+   "strength": 3.6,
+   "centroid": 3137,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 15.916,
+   "strength": 2.4,
+   "centroid": 1721,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 16.686,
+   "strength": 3.5,
+   "centroid": 771,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 16.886,
+   "strength": 2.2,
+   "centroid": 1565,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 17.236,
+   "strength": 5.3,
+   "centroid": 2568,
+   "kind": "mid hit/whoosh/pluck"
+  },
+  {
+   "t": 17.386,
+   "strength": 2.4,
+   "centroid": 1931,
+   "kind": "mid hit/whoosh/pluck"
+  }
+ ],
+ "script": {
+  "sentences": 5,
+  "syllables": 119,
+  "detected_nuclei": 74,
+  "ratio": 0.62,
+  "expected_seconds_at_detected_rate": 25.6
+ }
+}

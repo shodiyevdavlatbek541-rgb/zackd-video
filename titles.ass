@@ -1,0 +1,54 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Sub,Segoe UI Black,78,&H00FFFFFF,&H00FFFFFF,&H00101010,&H70000000,0,0,0,0,100,100,0,0,1,4,1,5,40,40,0,1
+Style: Q,Segoe UI Black,68,&H00FFFFFF,&H00FFFFFF,&H00101010,&H70000000,0,0,0,0,100,100,0,0,1,3,1,5,40,40,0,1
+Style: Opt,Segoe UI,56,&H00201810,&H00201810,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+Style: Letter,Segoe UI Black,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Box,Arial,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 2,0:00:00.15,0:00:00.96,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}62 yoshli
+Dialogue: 2,0:00:00.96,0:00:01.42,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}erkakni
+Dialogue: 2,0:00:01.42,0:00:01.96,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}tez yordam
+Dialogue: 2,0:00:01.96,0:00:02.72,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}reanimatsiyaga
+Dialogue: 2,0:00:02.72,0:00:03.32,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}olib keldi.
+Dialogue: 2,0:00:03.42,0:00:04.10,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Bir soat oldin
+Dialogue: 2,0:00:04.10,0:00:04.62,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}choy ichib
+Dialogue: 2,0:00:04.62,0:00:05.55,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}o‘tirgan ekan,
+Dialogue: 2,0:00:05.76,0:00:06.06,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}birdan
+Dialogue: 2,0:00:06.06,0:00:06.86,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}qo‘lidagi piyola
+Dialogue: 2,0:00:06.86,0:00:07.65,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}tushib ketibdi.
+Dialogue: 2,0:00:07.96,0:00:08.94,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Yuzining o‘ng tomoni
+Dialogue: 2,0:00:08.94,0:00:09.95,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}qiyshayib qolgan,
+Dialogue: 2,0:00:10.15,0:00:10.70,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}o‘ng qo‘lini
+Dialogue: 2,0:00:10.70,0:00:11.75,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}ko‘tara olmayapti.
+Dialogue: 2,0:00:12.06,0:00:13.06,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Gapirmoqchi bo‘ladi,
+Dialogue: 2,0:00:13.06,0:00:13.74,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}lekin so‘zlari
+Dialogue: 2,0:00:13.74,0:00:14.85,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}tushunarsiz chiqyapti.
+Dialogue: 2,0:00:15.60,0:00:16.42,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}Shifokor sifatida
+Dialogue: 2,0:00:16.42,0:00:17.75,Sub,,0,0,0,,{\pos(540,1500)\fscx92\fscy92\t(0,90,\fscx100\fscy100)}eng birinchi nima qilasiz?
+Dialogue: 2,0:00:17.82,0:00:26.00,Q,,0,0,0,,{\pos(540,350)\fad(180,0)}Shifokor sifatida\Neng birinchi nima qilasiz?
+Dialogue: 0,0:00:18.00,0:00:26.00,Box,,0,0,0,,{\move(60,560,60,520,0,160)\fad(120,0)\p1\1c&HFFFFFF&\1a&H0C&}m 38 0 l 922 0 b 960 0 960 0 960 38 l 960 142 b 960 180 960 180 922 180 l 38 180 b 0 180 0 180 0 142 l 0 38 b 0 0 0 0 38 0
+Dialogue: 1,0:00:18.00,0:00:26.00,Box,,0,0,0,,{\move(82,582,82,542,0,160)\fad(120,0)\p1\1c&HB4641E&}m 30 0 l 106 0 b 136 0 136 0 136 30 l 136 106 b 136 136 136 136 106 136 l 30 136 b 0 136 0 136 0 106 l 0 30 b 0 0 0 0 30 0
+Dialogue: 2,0:00:18.00,0:00:26.00,Letter,,0,0,0,,{\move(150,648,150,608,0,160)\fad(120,0)}A
+Dialogue: 2,0:00:18.00,0:00:26.00,Opt,,0,0,0,,{\move(248,650,248,610,0,160)\fad(120,0)}Darhol aspirin beraman
+Dialogue: 0,0:00:18.30,0:00:26.00,Box,,0,0,0,,{\move(60,778,60,738,0,160)\fad(120,0)\p1\1c&HFFFFFF&\1a&H0C&}m 38 0 l 922 0 b 960 0 960 0 960 38 l 960 142 b 960 180 960 180 922 180 l 38 180 b 0 180 0 180 0 142 l 0 38 b 0 0 0 0 38 0
+Dialogue: 1,0:00:18.30,0:00:26.00,Box,,0,0,0,,{\move(82,800,82,760,0,160)\fad(120,0)\p1\1c&HB4641E&}m 30 0 l 106 0 b 136 0 136 0 136 30 l 136 106 b 136 136 136 136 106 136 l 30 136 b 0 136 0 136 0 106 l 0 30 b 0 0 0 0 30 0
+Dialogue: 2,0:00:18.30,0:00:26.00,Letter,,0,0,0,,{\move(150,866,150,826,0,160)\fad(120,0)}B
+Dialogue: 2,0:00:18.30,0:00:26.00,Opt,,0,0,0,,{\move(248,868,248,828,0,160)\fad(120,0)}Qon bosimini tez tushiraman
+Dialogue: 0,0:00:18.60,0:00:26.00,Box,,0,0,0,,{\move(60,996,60,956,0,160)\fad(120,0)\p1\1c&HFFFFFF&\1a&H0C&}m 38 0 l 922 0 b 960 0 960 0 960 38 l 960 142 b 960 180 960 180 922 180 l 38 180 b 0 180 0 180 0 142 l 0 38 b 0 0 0 0 38 0
+Dialogue: 1,0:00:18.60,0:00:26.00,Box,,0,0,0,,{\move(82,1018,82,978,0,160)\fad(120,0)\p1\1c&HB4641E&}m 30 0 l 106 0 b 136 0 136 0 136 30 l 136 106 b 136 136 136 136 106 136 l 30 136 b 0 136 0 136 0 106 l 0 30 b 0 0 0 0 30 0
+Dialogue: 2,0:00:18.60,0:00:26.00,Letter,,0,0,0,,{\move(150,1084,150,1044,0,160)\fad(120,0)}C
+Dialogue: 2,0:00:18.60,0:00:26.00,Opt,,0,0,0,,{\move(248,1086,248,1046,0,160)\fad(120,0)}Kontrastsiz KT qildiraman
+Dialogue: 0,0:00:18.90,0:00:26.00,Box,,0,0,0,,{\move(60,1214,60,1174,0,160)\fad(120,0)\p1\1c&HFFFFFF&\1a&H0C&}m 38 0 l 922 0 b 960 0 960 0 960 38 l 960 142 b 960 180 960 180 922 180 l 38 180 b 0 180 0 180 0 142 l 0 38 b 0 0 0 0 38 0
+Dialogue: 1,0:00:18.90,0:00:26.00,Box,,0,0,0,,{\move(82,1236,82,1196,0,160)\fad(120,0)\p1\1c&HB4641E&}m 30 0 l 106 0 b 136 0 136 0 136 30 l 136 106 b 136 136 136 136 106 136 l 30 136 b 0 136 0 136 0 106 l 0 30 b 0 0 0 0 30 0
+Dialogue: 2,0:00:18.90,0:00:26.00,Letter,,0,0,0,,{\move(150,1302,150,1262,0,160)\fad(120,0)}D
+Dialogue: 2,0:00:18.90,0:00:26.00,Opt,,0,0,0,,{\move(248,1304,248,1264,0,160)\fad(120,0)}Darhol trombni eritadigan\Ndori yuboraman
+Dialogue: 2,0:00:19.35,0:00:26.00,Q,,0,0,0,,{\pos(540,1530)\fs62\1c&H4DE1FF&\fad(180,0)}Javobingizni\Nkommentariyada yozing.

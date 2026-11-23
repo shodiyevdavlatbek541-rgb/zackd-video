@@ -1,0 +1,398 @@
+{
+ "lang": "uz",
+ "voice": "C:\\Users\\User\\Downloads\\Telegram Desktop\\video_2026-11-22_23-50-15.mp4",
+ "duration": 18.204,
+ "status": "few-pauses-estimate: CHECK with look",
+ "method": "syllable-nucleus alignment (ears.py)",
+ "speech_span": [
+  0.18,
+  17.38
+ ],
+ "sentences": [
+  {
+   "i": 0,
+   "text": "62 yoshli erkakni tez yordam reanimatsiyaga olib keldi.",
+   "start": 0.0,
+   "end": 3.446,
+   "speech": [
+    0.18,
+    3.446
+   ],
+   "syllables": 27,
+   "peaks": 16,
+   "words": [
+    [
+     "62",
+     0.18
+    ],
+    [
+     "yoshli",
+     0.966
+    ],
+    [
+     "erkakni",
+     1.336
+    ],
+    [
+     "tez",
+     1.666
+    ],
+    [
+     "yordam",
+     1.666
+    ],
+    [
+     "reanimatsiyaga",
+     1.996
+    ],
+    [
+     "olib",
+     2.936
+    ],
+    [
+     "keldi.",
+     3.086
+    ]
+   ],
+   "word_ends": [
+    0.966,
+    1.336,
+    1.666,
+    1.666,
+    1.996,
+    2.936,
+    3.086,
+    3.446
+   ],
+   "emphasis": [
+    "62"
+   ]
+  },
+  {
+   "i": 1,
+   "text": "Bir soat oldin choy ichib o'tirgan ekan, birdan qo'lidagi piyola tushib ketibdi.",
+   "start": 3.446,
+   "end": 7.206,
+   "speech": [
+    3.446,
+    7.206
+   ],
+   "syllables": 29,
+   "peaks": 18,
+   "words": [
+    [
+     "Bir",
+     3.446
+    ],
+    [
+     "soat",
+     3.626
+    ],
+    [
+     "oldin",
+     3.816
+    ],
+    [
+     "choy",
+     3.976
+    ],
+    [
+     "ichib",
+     4.256
+    ],
+    [
+     "o'tirgan",
+     4.636
+    ],
+    [
+     "ekan,",
+     4.886
+    ],
+    [
+     "birdan",
+     5.176
+    ],
+    [
+     "qo'lidagi",
+     5.766
+    ],
+    [
+     "piyola",
+     6.236
+    ],
+    [
+     "tushib",
+     6.636
+    ],
+    [
+     "ketibdi.",
+     6.776
+    ]
+   ],
+   "word_ends": [
+    3.626,
+    3.816,
+    3.976,
+    4.256,
+    4.636,
+    4.886,
+    5.176,
+    5.766,
+    6.236,
+    6.636,
+    6.776,
+    7.206
+   ],
+   "emphasis": [
+    "Bir",
+    "soat"
+   ]
+  },
+  {
+   "i": 2,
+   "text": "Yuzining o'ng tomoni qiyshayib qolgan, o'ng qo'lini ko'tara olmayapti.",
+   "start": 7.206,
+   "end": 12.216,
+   "speech": [
+    7.206,
+    12.216
+   ],
+   "syllables": 27,
+   "peaks": 17,
+   "words": [
+    [
+     "Yuzining",
+     7.206
+    ],
+    [
+     "o'ng",
+     8.316
+    ],
+    [
+     "tomoni",
+     8.316
+    ],
+    [
+     "qiyshayib",
+     8.666
+    ],
+    [
+     "qolgan,",
+     9.226
+    ],
+    [
+     "o'ng",
+     9.456
+    ],
+    [
+     "qo'lini",
+     9.716
+    ],
+    [
+     "ko'tara",
+     10.446
+    ],
+    [
+     "olmayapti.",
+     10.856
+    ]
+   ],
+   "word_ends": [
+    8.316,
+    8.316,
+    8.666,
+    9.226,
+    9.456,
+    9.716,
+    10.446,
+    10.856,
+    12.216
+   ],
+   "emphasis": [
+    "qo'lini"
+   ]
+  },
+  {
+   "i": 3,
+   "text": "Gapirmoqchi bo'ladi, lekin so'zlari tushunarsiz chiqyapti.",
+   "start": 12.216,
+   "end": 15.646,
+   "speech": [
+    12.216,
+    15.646
+   ],
+   "syllables": 20,
+   "peaks": 13,
+   "words": [
+    [
+     "Gapirmoqchi",
+     12.216
+    ],
+    [
+     "bo'ladi,",
+     12.606
+    ],
+    [
+     "lekin",
+     13.056
+    ],
+    [
+     "so'zlari",
+     13.236
+    ],
+    [
+     "tushunarsiz",
+     13.566
+    ],
+    [
+     "chiqyapti.",
+     14.166
+    ]
+   ],
+   "word_ends": [
+    12.606,
+    13.056,
+    13.236,
+    13.566,
+    14.166,
+    15.646
+   ],
+   "emphasis": [
+    "so'zlari"
+   ]
+  },
+  {
+   "i": 4,
+   "text": "Shifokor sifatida eng birinchi nima qilasiz?",
+   "start": 15.646,
+   "end": 18.204,
+   "speech": [
+    15.646,
+    17.38
+   ],
+   "syllables": 16,
+   "peaks": 10,
+   "words": [
+    [
+     "Shifokor",
+     15.646
+    ],
+    [
+     "sifatida",
+     15.916
+    ],
+    [
+     "eng",
+     16.346
+    ],
+    [
+     "birinchi",
+     16.466
+    ],
+    [
+     "nima",
+     16.766
+    ],
+    [
+     "qilasiz?",
+     16.986
+    ]
+   ],
+   "word_ends": [
+    15.916,
+    16.346,
+    16.466,
+    16.766,
+    16.986,
+    17.38
+   ],
+   "emphasis": [
+    "sifatida"
+   ]
+  }
+ ],
+ "scenes": {
+  "n01": {
+   "start": 0.0,
+   "end": 3.446,
+   "dur": 3.446,
+   "sentences": [
+    0
+   ]
+  },
+  "n02": {
+   "start": 3.446,
+   "end": 7.206,
+   "dur": 3.76,
+   "sentences": [
+    1
+   ]
+  },
+  "n03": {
+   "start": 7.206,
+   "end": 12.216,
+   "dur": 5.01,
+   "sentences": [
+    2
+   ]
+  },
+  "n04": {
+   "start": 12.216,
+   "end": 15.646,
+   "dur": 3.43,
+   "sentences": [
+    3
+   ]
+  },
+  "n05": {
+   "start": 15.646,
+   "end": 18.204,
+   "dur": 2.558,
+   "sentences": [
+    4
+   ]
+  }
+ },
+ "cuts": [
+  {
+   "t": 3.446,
+   "pause": [
+    3.446,
+    3.446
+   ],
+   "pause_len": 0.0,
+   "syllable_share_error": null,
+   "confidence": "low - look at it"
+  },
+  {
+   "t": 7.206,
+   "pause": [
+    7.206,
+    7.206
+   ],
+   "pause_len": 0.0,
+   "syllable_share_error": null,
+   "confidence": "low - look at it"
+  },
+  {
+   "t": 12.216,
+   "pause": [
+    12.216,
+    12.216
+   ],
+   "pause_len": 0.0,
+   "syllable_share_error": null,
+   "confidence": "low - look at it"
+  },
+  {
+   "t": 15.646,
+   "pause": [
+    15.646,
+    15.646
+   ],
+   "pause_len": 0.0,
+   "syllable_share_error": null,
+   "confidence": "low - look at it"
+  }
+ ]
+}
